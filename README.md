@@ -1,4 +1,5 @@
 # 📡 srtla-relay-kit
+srt://ip:30000?streamid=play/live/feed1&timeout=2000000&latency=1000000
 
 One-command SRT + SRTLA relay server for IRL streaming. Bond multiple cellular connections for rock-solid outdoor broadcasts.
 
